@@ -1,0 +1,1 @@
+基于 [mirai](https://github.com/mamoe/mirai) 和 [Ariadne](https://github.com/GraiaProject/Ariadne) 的 QQ 机器人
